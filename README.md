@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zeeshan Raza and I'm a Mern Stack Developer from Uttar Pradesh, Barielly</h2>
+<h2 align="left">Hi 👋! My name is Manan Rajpout.</h2>
 
 ###
 
